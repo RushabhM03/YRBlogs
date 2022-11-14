@@ -3,7 +3,8 @@
 <div align="center">
   <h1>YR Blogs</h1>
   <img src="https://revenuearchitects.com/wp-content/uploads/2017/02/Blog_pic.png" height="200"><br>
-  OSC project semester: V
+  OSC Project 
+  Semester V
 </div>
 
 <hr>
