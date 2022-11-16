@@ -40,7 +40,9 @@
 ## 🤖Tech-Stack used
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
-<a href="https://www.php.net/" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="JavaScript" width="31px" height="31px"></a>
+<a href="https://www.php.net/" title="php"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="php" width="31px" height="31px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="31px" height="31px"></a>
+<a href="https://www.javascript.com/" title="Javascript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" width="31px" height="31px"></a>
 
 
 ## 👩‍💻Contributors
