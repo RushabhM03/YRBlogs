@@ -11,7 +11,7 @@
 
   ![GitHub language count](https://img.shields.io/github/languages/count/RushabhM03/YRBlogs?color=green&style=for-the-badge)
   <br>
-  ![GitHub contributors](https://img.shields.io/github/contributors/RushabhM03/YRBlogs?color=green&logo=github&logoColor=red&style=for-the-badge)
+  ![Github contributors](https://img.shields.io/github/contributors/RushabhM03/YRBlogs?color=red&logo=github&logoColor=red&style=for-the-badge)
 
 <hr>
 
