@@ -38,11 +38,28 @@
 </table>
 
 ## 🤖Tech-Stack used
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
-<a href="https://www.php.net/" title="php"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="php" width="31px" height="31px"></a>
-<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="31px" height="31px"></a>
-<a href="https://www.javascript.com/" title="Javascript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="Javascript" width="31px" height="31px"></a>
+1. php
+2. html
+3. bootstrap
+4. javascript
+
+
+## 📝Tutorial
+Step 1: Clone this project in the htdocs folder of the xampp directory
+```
+git clone https://github.com/RushabhM03/YRBlogs.git
+```
+
+Step 2: Create the tables by uncommenting the sql run line in the functions.php file
+
+
+Step 3: Start the apache and mysql servers from the xampp window itself.
+
+
+Step 4: Open the web browser and start the local host
+```
+http://localhost/proj/public/
+```
 
 
 ## 👩‍💻Contributors
